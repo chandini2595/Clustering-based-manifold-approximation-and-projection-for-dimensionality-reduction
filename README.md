@@ -1,1 +1,1 @@
-# Clustering-based-manifold-approximation-and-projection-for-dimensionality-reduction-
+# Clustering-based-manifold-approximation-and-projection-for-dimensionality-reduction
