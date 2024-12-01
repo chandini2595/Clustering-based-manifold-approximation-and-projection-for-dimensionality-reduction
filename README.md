@@ -20,9 +20,9 @@ _**Repository Contents**_
    - Methodology of CBMAP.
    - Performance comparisons and results.
 
-3. Video Presentation[](url):
+3. Video Presentation[](https://youtu.be/Xw0UNAS-ruM):
    
-   A 10–15 minute recorded presentation explaining:
+   A 10 minute recorded presentation explaining:
    - The significance of dimensionality reduction.
    - How CBMAP works.
    - Experimental results and key takeaways.
