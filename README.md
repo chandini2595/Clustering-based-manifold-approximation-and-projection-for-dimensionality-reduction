@@ -1,4 +1,4 @@
-# Clustering-based manifold approximation and projection for dimensionality reduction 
+# Clustering-Based Manifold Approximation and Projection for dimensionality reduction 
 
 This repository contains materials related to the exploration of CBMAP (Clustering-Based Manifold Approximation and Projection), a dimensionality reduction algorithm that balances the preservation of global and local structures in data. 
 
