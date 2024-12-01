@@ -6,9 +6,9 @@ CBMAP addresses key limitations of existing methods (e.g., t-SNE, UMAP) and is d
 
 _**Repository Contents**_
 
-1. Medium Article
-
-The Medium article provides a comprehensive overview of CBMAP:
+1. [Medium Article](https://medium.com/@chandinisaisri.uppuganti/cbmap-the-next-step-in-dimensionality-reduction-for-machine-learning-1779f32f0752)
+	
+    The Medium article provides a comprehensive overview of CBMAP:
 	•	Explains the challenges in dimensionality reduction.
 	•	Discusses the methodology and innovations in CBMAP.
 	•	Compares CBMAP with other methods like t-SNE, UMAP, and PC
